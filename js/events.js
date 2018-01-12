@@ -4,8 +4,8 @@ function getIt(){
   alert("Hey!");
 }
 function frameIt(){
-  $('.tasty').load()
-
+  $('img').load('.tasty')
+  return;
 }
 $(document).ready(function(){
 
