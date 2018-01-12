@@ -5,7 +5,7 @@ function getIt(){
 }
 function frameIt(){
   $('.tasty').load()
-  return;
+  
 }
 $(document).ready(function(){
 
