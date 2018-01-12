@@ -4,8 +4,8 @@ function getIt(){
   alert("Hey!");
 }
 function frameIt(){
-  $('.tasty').load(color: red)
-  
+  $('.tasty').load()
+  return;
 }
 $(document).ready(function(){
 
